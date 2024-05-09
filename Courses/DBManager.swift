@@ -4,8 +4,8 @@ import Yams
 // Parse YAML data into Swift models
 func parseTopicsAndQuizzesFromYAMLFilesInFolders() -> ([Topic], [Quiz])? {
     let fm = FileManager.default
-    let topicFolderURL = URL(fileURLWithPath: "/Users/kakimbekn/Downloads/topics")
-    let quizFolderURL = URL(fileURLWithPath: "/Users/kakimbekn/Downloads/quizzes")
+    let topicFolderURL = URL(fileURLWithPath: "/Users/kakimbekn/Library/CloudStorage/OneDrive-АОКазахстанско-БританскийТехническийУниверситет/MyFiles/KBTU/IOS/Courses/Courses/topics")
+    let quizFolderURL = URL(fileURLWithPath: "/Users/kakimbekn/Library/CloudStorage/OneDrive-АОКазахстанско-БританскийТехническийУниверситет/MyFiles/KBTU/IOS/Courses/Courses/quizzes")
     
     guard let topicFiles = try? fm.contentsOfDirectory(at: topicFolderURL, includingPropertiesForKeys: nil),
           let quizFiles = try? fm.contentsOfDirectory(at: quizFolderURL, includingPropertiesForKeys: nil) else {

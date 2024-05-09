@@ -17,32 +17,6 @@
 		B83F94532BEBDAF700CC829D /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83F94522BEBDAF700CC829D /* QuizView.swift */; };
 		B83F94562BEBDDFB00CC829D /* Yams in Frameworks */ = {isa = PBXBuildFile; productRef = B83F94552BEBDDFB00CC829D /* Yams */; };
 		B83F94582BEBDF0900CC829D /* DBManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83F94572BEBDF0900CC829D /* DBManager.swift */; };
-		B83F94752BEBE15C00CC829D /* defaults.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F945A2BEBE15B00CC829D /* defaults.yaml */; };
-		B83F94762BEBE15C00CC829D /* flutter-material.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F945B2BEBE15B00CC829D /* flutter-material.yaml */; };
-		B83F94772BEBE15C00CC829D /* ts-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F945C2BEBE15B00CC829D /* ts-basics.yaml */; };
-		B83F94782BEBE15C00CC829D /* firebase-perf.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F945D2BEBE15B00CC829D /* firebase-perf.yaml */; };
-		B83F94792BEBE15C00CC829D /* flutter-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F945E2BEBE15B00CC829D /* flutter-basics.yaml */; };
-		B83F947A2BEBE15C00CC829D /* flutter-gestures.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F945F2BEBE15B00CC829D /* flutter-gestures.yaml */; };
-		B83F947B2BEBE15C00CC829D /* js-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94602BEBE15B00CC829D /* js-basics.yaml */; };
-		B83F947C2BEBE15C00CC829D /* flutter-containers.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94612BEBE15B00CC829D /* flutter-containers.yaml */; };
-		B83F947D2BEBE15C00CC829D /* angular-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94622BEBE15B00CC829D /* angular-basics.yaml */; };
-		B83F947E2BEBE15C00CC829D /* js-variables.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94632BEBE15B00CC829D /* js-variables.yaml */; };
-		B83F947F2BEBE15C00CC829D /* tester.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94642BEBE15B00CC829D /* tester.yaml */; };
-		B83F94802BEBE15C00CC829D /* cf-triggers.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94652BEBE15B00CC829D /* cf-triggers.yaml */; };
-		B83F94812BEBE15C00CC829D /* rxjs-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94662BEBE15B00CC829D /* rxjs-basics.yaml */; };
-		B83F94822BEBE15C00CC829D /* flutter-flex.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94672BEBE15B00CC829D /* flutter-flex.yaml */; };
-		B83F94832BEBE15C00CC829D /* angular-templates.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94682BEBE15B00CC829D /* angular-templates.yaml */; };
-		B83F94842BEBE15C00CC829D /* flutter-scroll.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94692BEBE15B00CC829D /* flutter-scroll.yaml */; };
-		B83F94852BEBE15C00CC829D /* firestore-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F946A2BEBE15B00CC829D /* firestore-basics.yaml */; };
-		B83F94862BEBE15C00CC829D /* cf-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F946B2BEBE15B00CC829D /* cf-basics.yaml */; };
-		B83F94872BEBE15C00CC829D /* flutter.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F946D2BEBE15C00CC829D /* flutter.yaml */; };
-		B83F94882BEBE15C00CC829D /* ts.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F946E2BEBE15C00CC829D /* ts.yaml */; };
-		B83F94892BEBE15C00CC829D /* firestore.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F946F2BEBE15C00CC829D /* firestore.yaml */; };
-		B83F948A2BEBE15C00CC829D /* rxjs.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94702BEBE15C00CC829D /* rxjs.yaml */; };
-		B83F948B2BEBE15C00CC829D /* js.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94712BEBE15C00CC829D /* js.yaml */; };
-		B83F948C2BEBE15C00CC829D /* firebase.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94722BEBE15C00CC829D /* firebase.yaml */; };
-		B83F948D2BEBE15C00CC829D /* angular.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94732BEBE15C00CC829D /* angular.yaml */; };
-		B83F948E2BEBE15C00CC829D /* cf.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B83F94742BEBE15C00CC829D /* cf.yaml */; };
 		B8429A042BEBF244002ADC0C /* ts.png in Resources */ = {isa = PBXBuildFile; fileRef = B84299FA2BEBF244002ADC0C /* ts.png */; };
 		B8429A052BEBF244002ADC0C /* default-cover.png in Resources */ = {isa = PBXBuildFile; fileRef = B84299FB2BEBF244002ADC0C /* default-cover.png */; };
 		B8429A062BEBF244002ADC0C /* flutter.png in Resources */ = {isa = PBXBuildFile; fileRef = B84299FC2BEBF244002ADC0C /* flutter.png */; };
@@ -53,6 +27,32 @@
 		B8429A0B2BEBF244002ADC0C /* cloud-functions.png in Resources */ = {isa = PBXBuildFile; fileRef = B8429A012BEBF244002ADC0C /* cloud-functions.png */; };
 		B8429A0C2BEBF244002ADC0C /* flutter-layout.png in Resources */ = {isa = PBXBuildFile; fileRef = B8429A022BEBF244002ADC0C /* flutter-layout.png */; };
 		B8429A0D2BEBF244002ADC0C /* rxjs.png in Resources */ = {isa = PBXBuildFile; fileRef = B8429A032BEBF244002ADC0C /* rxjs.png */; };
+		B867B05E2BECD45B0028E766 /* flutter.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0432BECD45B0028E766 /* flutter.yaml */; };
+		B867B05F2BECD45B0028E766 /* ts.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0442BECD45B0028E766 /* ts.yaml */; };
+		B867B0602BECD45B0028E766 /* firestore.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0452BECD45B0028E766 /* firestore.yaml */; };
+		B867B0612BECD45B0028E766 /* rxjs.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0462BECD45B0028E766 /* rxjs.yaml */; };
+		B867B0622BECD45B0028E766 /* js.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0472BECD45B0028E766 /* js.yaml */; };
+		B867B0632BECD45B0028E766 /* firebase.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0482BECD45B0028E766 /* firebase.yaml */; };
+		B867B0642BECD45B0028E766 /* angular.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0492BECD45B0028E766 /* angular.yaml */; };
+		B867B0652BECD45B0028E766 /* cf.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B04A2BECD45B0028E766 /* cf.yaml */; };
+		B867B0662BECD45B0028E766 /* defaults.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B04C2BECD45B0028E766 /* defaults.yaml */; };
+		B867B0672BECD45B0028E766 /* flutter-material.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B04D2BECD45B0028E766 /* flutter-material.yaml */; };
+		B867B0682BECD45B0028E766 /* ts-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B04E2BECD45B0028E766 /* ts-basics.yaml */; };
+		B867B0692BECD45B0028E766 /* firebase-perf.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B04F2BECD45B0028E766 /* firebase-perf.yaml */; };
+		B867B06A2BECD45B0028E766 /* flutter-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0502BECD45B0028E766 /* flutter-basics.yaml */; };
+		B867B06B2BECD45B0028E766 /* flutter-gestures.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0512BECD45B0028E766 /* flutter-gestures.yaml */; };
+		B867B06C2BECD45B0028E766 /* js-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0522BECD45B0028E766 /* js-basics.yaml */; };
+		B867B06D2BECD45B0028E766 /* flutter-containers.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0532BECD45B0028E766 /* flutter-containers.yaml */; };
+		B867B06E2BECD45B0028E766 /* angular-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0542BECD45B0028E766 /* angular-basics.yaml */; };
+		B867B06F2BECD45B0028E766 /* js-variables.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0552BECD45B0028E766 /* js-variables.yaml */; };
+		B867B0702BECD45B0028E766 /* tester.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0562BECD45B0028E766 /* tester.yaml */; };
+		B867B0712BECD45B0028E766 /* cf-triggers.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0572BECD45B0028E766 /* cf-triggers.yaml */; };
+		B867B0722BECD45B0028E766 /* rxjs-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0582BECD45B0028E766 /* rxjs-basics.yaml */; };
+		B867B0732BECD45B0028E766 /* flutter-flex.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B0592BECD45B0028E766 /* flutter-flex.yaml */; };
+		B867B0742BECD45B0028E766 /* angular-templates.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B05A2BECD45B0028E766 /* angular-templates.yaml */; };
+		B867B0752BECD45B0028E766 /* flutter-scroll.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B05B2BECD45B0028E766 /* flutter-scroll.yaml */; };
+		B867B0762BECD45B0028E766 /* firestore-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B05C2BECD45B0028E766 /* firestore-basics.yaml */; };
+		B867B0772BECD45B0028E766 /* cf-basics.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B867B05D2BECD45B0028E766 /* cf-basics.yaml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,32 +66,6 @@
 		B83F94502BEBDAC400CC829D /* TopicDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicDetailView.swift; sourceTree = "<group>"; };
 		B83F94522BEBDAF700CC829D /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
 		B83F94572BEBDF0900CC829D /* DBManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBManager.swift; sourceTree = "<group>"; };
-		B83F945A2BEBE15B00CC829D /* defaults.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = defaults.yaml; sourceTree = "<group>"; };
-		B83F945B2BEBE15B00CC829D /* flutter-material.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-material.yaml"; sourceTree = "<group>"; };
-		B83F945C2BEBE15B00CC829D /* ts-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "ts-basics.yaml"; sourceTree = "<group>"; };
-		B83F945D2BEBE15B00CC829D /* firebase-perf.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "firebase-perf.yaml"; sourceTree = "<group>"; };
-		B83F945E2BEBE15B00CC829D /* flutter-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-basics.yaml"; sourceTree = "<group>"; };
-		B83F945F2BEBE15B00CC829D /* flutter-gestures.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-gestures.yaml"; sourceTree = "<group>"; };
-		B83F94602BEBE15B00CC829D /* js-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "js-basics.yaml"; sourceTree = "<group>"; };
-		B83F94612BEBE15B00CC829D /* flutter-containers.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-containers.yaml"; sourceTree = "<group>"; };
-		B83F94622BEBE15B00CC829D /* angular-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "angular-basics.yaml"; sourceTree = "<group>"; };
-		B83F94632BEBE15B00CC829D /* js-variables.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "js-variables.yaml"; sourceTree = "<group>"; };
-		B83F94642BEBE15B00CC829D /* tester.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = tester.yaml; sourceTree = "<group>"; };
-		B83F94652BEBE15B00CC829D /* cf-triggers.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "cf-triggers.yaml"; sourceTree = "<group>"; };
-		B83F94662BEBE15B00CC829D /* rxjs-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "rxjs-basics.yaml"; sourceTree = "<group>"; };
-		B83F94672BEBE15B00CC829D /* flutter-flex.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-flex.yaml"; sourceTree = "<group>"; };
-		B83F94682BEBE15B00CC829D /* angular-templates.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "angular-templates.yaml"; sourceTree = "<group>"; };
-		B83F94692BEBE15B00CC829D /* flutter-scroll.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-scroll.yaml"; sourceTree = "<group>"; };
-		B83F946A2BEBE15B00CC829D /* firestore-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "firestore-basics.yaml"; sourceTree = "<group>"; };
-		B83F946B2BEBE15B00CC829D /* cf-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "cf-basics.yaml"; sourceTree = "<group>"; };
-		B83F946D2BEBE15C00CC829D /* flutter.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = flutter.yaml; sourceTree = "<group>"; };
-		B83F946E2BEBE15C00CC829D /* ts.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = ts.yaml; sourceTree = "<group>"; };
-		B83F946F2BEBE15C00CC829D /* firestore.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = firestore.yaml; sourceTree = "<group>"; };
-		B83F94702BEBE15C00CC829D /* rxjs.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = rxjs.yaml; sourceTree = "<group>"; };
-		B83F94712BEBE15C00CC829D /* js.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = js.yaml; sourceTree = "<group>"; };
-		B83F94722BEBE15C00CC829D /* firebase.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = firebase.yaml; sourceTree = "<group>"; };
-		B83F94732BEBE15C00CC829D /* angular.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = angular.yaml; sourceTree = "<group>"; };
-		B83F94742BEBE15C00CC829D /* cf.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = cf.yaml; sourceTree = "<group>"; };
 		B84299FA2BEBF244002ADC0C /* ts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ts.png; sourceTree = "<group>"; };
 		B84299FB2BEBF244002ADC0C /* default-cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "default-cover.png"; sourceTree = "<group>"; };
 		B84299FC2BEBF244002ADC0C /* flutter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flutter.png; sourceTree = "<group>"; };
@@ -102,6 +76,32 @@
 		B8429A012BEBF244002ADC0C /* cloud-functions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cloud-functions.png"; sourceTree = "<group>"; };
 		B8429A022BEBF244002ADC0C /* flutter-layout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flutter-layout.png"; sourceTree = "<group>"; };
 		B8429A032BEBF244002ADC0C /* rxjs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rxjs.png; sourceTree = "<group>"; };
+		B867B0432BECD45B0028E766 /* flutter.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = flutter.yaml; sourceTree = "<group>"; };
+		B867B0442BECD45B0028E766 /* ts.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = ts.yaml; sourceTree = "<group>"; };
+		B867B0452BECD45B0028E766 /* firestore.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = firestore.yaml; sourceTree = "<group>"; };
+		B867B0462BECD45B0028E766 /* rxjs.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = rxjs.yaml; sourceTree = "<group>"; };
+		B867B0472BECD45B0028E766 /* js.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = js.yaml; sourceTree = "<group>"; };
+		B867B0482BECD45B0028E766 /* firebase.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = firebase.yaml; sourceTree = "<group>"; };
+		B867B0492BECD45B0028E766 /* angular.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = angular.yaml; sourceTree = "<group>"; };
+		B867B04A2BECD45B0028E766 /* cf.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = cf.yaml; sourceTree = "<group>"; };
+		B867B04C2BECD45B0028E766 /* defaults.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = defaults.yaml; sourceTree = "<group>"; };
+		B867B04D2BECD45B0028E766 /* flutter-material.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-material.yaml"; sourceTree = "<group>"; };
+		B867B04E2BECD45B0028E766 /* ts-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "ts-basics.yaml"; sourceTree = "<group>"; };
+		B867B04F2BECD45B0028E766 /* firebase-perf.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "firebase-perf.yaml"; sourceTree = "<group>"; };
+		B867B0502BECD45B0028E766 /* flutter-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-basics.yaml"; sourceTree = "<group>"; };
+		B867B0512BECD45B0028E766 /* flutter-gestures.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-gestures.yaml"; sourceTree = "<group>"; };
+		B867B0522BECD45B0028E766 /* js-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "js-basics.yaml"; sourceTree = "<group>"; };
+		B867B0532BECD45B0028E766 /* flutter-containers.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-containers.yaml"; sourceTree = "<group>"; };
+		B867B0542BECD45B0028E766 /* angular-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "angular-basics.yaml"; sourceTree = "<group>"; };
+		B867B0552BECD45B0028E766 /* js-variables.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "js-variables.yaml"; sourceTree = "<group>"; };
+		B867B0562BECD45B0028E766 /* tester.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = tester.yaml; sourceTree = "<group>"; };
+		B867B0572BECD45B0028E766 /* cf-triggers.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "cf-triggers.yaml"; sourceTree = "<group>"; };
+		B867B0582BECD45B0028E766 /* rxjs-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "rxjs-basics.yaml"; sourceTree = "<group>"; };
+		B867B0592BECD45B0028E766 /* flutter-flex.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-flex.yaml"; sourceTree = "<group>"; };
+		B867B05A2BECD45B0028E766 /* angular-templates.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "angular-templates.yaml"; sourceTree = "<group>"; };
+		B867B05B2BECD45B0028E766 /* flutter-scroll.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "flutter-scroll.yaml"; sourceTree = "<group>"; };
+		B867B05C2BECD45B0028E766 /* firestore-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "firestore-basics.yaml"; sourceTree = "<group>"; };
+		B867B05D2BECD45B0028E766 /* cf-basics.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "cf-basics.yaml"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,9 +135,9 @@
 		B83F943B2BEB9E1600CC829D /* Courses */ = {
 			isa = PBXGroup;
 			children = (
+				B867B04B2BECD45B0028E766 /* quizzes */,
+				B867B0422BECD45B0028E766 /* topics */,
 				B84299F92BEBF244002ADC0C /* covers */,
-				B83F94592BEBE15B00CC829D /* quizzes */,
-				B83F946C2BEBE15C00CC829D /* topics */,
 				B83F944D2BEBDA3400CC829D /* Views */,
 				B83F944A2BEBA0A700CC829D /* Models */,
 				B83F943C2BEB9E1600CC829D /* CoursesApp.swift */,
@@ -175,48 +175,6 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		B83F94592BEBE15B00CC829D /* quizzes */ = {
-			isa = PBXGroup;
-			children = (
-				B83F945A2BEBE15B00CC829D /* defaults.yaml */,
-				B83F945B2BEBE15B00CC829D /* flutter-material.yaml */,
-				B83F945C2BEBE15B00CC829D /* ts-basics.yaml */,
-				B83F945D2BEBE15B00CC829D /* firebase-perf.yaml */,
-				B83F945E2BEBE15B00CC829D /* flutter-basics.yaml */,
-				B83F945F2BEBE15B00CC829D /* flutter-gestures.yaml */,
-				B83F94602BEBE15B00CC829D /* js-basics.yaml */,
-				B83F94612BEBE15B00CC829D /* flutter-containers.yaml */,
-				B83F94622BEBE15B00CC829D /* angular-basics.yaml */,
-				B83F94632BEBE15B00CC829D /* js-variables.yaml */,
-				B83F94642BEBE15B00CC829D /* tester.yaml */,
-				B83F94652BEBE15B00CC829D /* cf-triggers.yaml */,
-				B83F94662BEBE15B00CC829D /* rxjs-basics.yaml */,
-				B83F94672BEBE15B00CC829D /* flutter-flex.yaml */,
-				B83F94682BEBE15B00CC829D /* angular-templates.yaml */,
-				B83F94692BEBE15B00CC829D /* flutter-scroll.yaml */,
-				B83F946A2BEBE15B00CC829D /* firestore-basics.yaml */,
-				B83F946B2BEBE15B00CC829D /* cf-basics.yaml */,
-			);
-			name = quizzes;
-			path = ../../../../../../../../Downloads/quizzes;
-			sourceTree = "<group>";
-		};
-		B83F946C2BEBE15C00CC829D /* topics */ = {
-			isa = PBXGroup;
-			children = (
-				B83F946D2BEBE15C00CC829D /* flutter.yaml */,
-				B83F946E2BEBE15C00CC829D /* ts.yaml */,
-				B83F946F2BEBE15C00CC829D /* firestore.yaml */,
-				B83F94702BEBE15C00CC829D /* rxjs.yaml */,
-				B83F94712BEBE15C00CC829D /* js.yaml */,
-				B83F94722BEBE15C00CC829D /* firebase.yaml */,
-				B83F94732BEBE15C00CC829D /* angular.yaml */,
-				B83F94742BEBE15C00CC829D /* cf.yaml */,
-			);
-			name = topics;
-			path = ../../../../../../../../Downloads/topics;
-			sourceTree = "<group>";
-		};
 		B84299F92BEBF244002ADC0C /* covers */ = {
 			isa = PBXGroup;
 			children = (
@@ -232,6 +190,46 @@
 				B8429A032BEBF244002ADC0C /* rxjs.png */,
 			);
 			path = covers;
+			sourceTree = "<group>";
+		};
+		B867B0422BECD45B0028E766 /* topics */ = {
+			isa = PBXGroup;
+			children = (
+				B867B0432BECD45B0028E766 /* flutter.yaml */,
+				B867B0442BECD45B0028E766 /* ts.yaml */,
+				B867B0452BECD45B0028E766 /* firestore.yaml */,
+				B867B0462BECD45B0028E766 /* rxjs.yaml */,
+				B867B0472BECD45B0028E766 /* js.yaml */,
+				B867B0482BECD45B0028E766 /* firebase.yaml */,
+				B867B0492BECD45B0028E766 /* angular.yaml */,
+				B867B04A2BECD45B0028E766 /* cf.yaml */,
+			);
+			path = topics;
+			sourceTree = "<group>";
+		};
+		B867B04B2BECD45B0028E766 /* quizzes */ = {
+			isa = PBXGroup;
+			children = (
+				B867B04C2BECD45B0028E766 /* defaults.yaml */,
+				B867B04D2BECD45B0028E766 /* flutter-material.yaml */,
+				B867B04E2BECD45B0028E766 /* ts-basics.yaml */,
+				B867B04F2BECD45B0028E766 /* firebase-perf.yaml */,
+				B867B0502BECD45B0028E766 /* flutter-basics.yaml */,
+				B867B0512BECD45B0028E766 /* flutter-gestures.yaml */,
+				B867B0522BECD45B0028E766 /* js-basics.yaml */,
+				B867B0532BECD45B0028E766 /* flutter-containers.yaml */,
+				B867B0542BECD45B0028E766 /* angular-basics.yaml */,
+				B867B0552BECD45B0028E766 /* js-variables.yaml */,
+				B867B0562BECD45B0028E766 /* tester.yaml */,
+				B867B0572BECD45B0028E766 /* cf-triggers.yaml */,
+				B867B0582BECD45B0028E766 /* rxjs-basics.yaml */,
+				B867B0592BECD45B0028E766 /* flutter-flex.yaml */,
+				B867B05A2BECD45B0028E766 /* angular-templates.yaml */,
+				B867B05B2BECD45B0028E766 /* flutter-scroll.yaml */,
+				B867B05C2BECD45B0028E766 /* firestore-basics.yaml */,
+				B867B05D2BECD45B0028E766 /* cf-basics.yaml */,
+			);
+			path = quizzes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -298,44 +296,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B867B0762BECD45B0028E766 /* firestore-basics.yaml in Resources */,
 				B8429A092BEBF244002ADC0C /* firebase.png in Resources */,
-				B83F947B2BEBE15C00CC829D /* js-basics.yaml in Resources */,
-				B83F947E2BEBE15C00CC829D /* js-variables.yaml in Resources */,
+				B867B0612BECD45B0028E766 /* rxjs.yaml in Resources */,
+				B867B0752BECD45B0028E766 /* flutter-scroll.yaml in Resources */,
+				B867B0672BECD45B0028E766 /* flutter-material.yaml in Resources */,
+				B867B0662BECD45B0028E766 /* defaults.yaml in Resources */,
 				B8429A062BEBF244002ADC0C /* flutter.png in Resources */,
-				B83F94842BEBE15C00CC829D /* flutter-scroll.yaml in Resources */,
-				B83F94872BEBE15C00CC829D /* flutter.yaml in Resources */,
-				B83F94852BEBE15C00CC829D /* firestore-basics.yaml in Resources */,
+				B867B0642BECD45B0028E766 /* angular.yaml in Resources */,
+				B867B0722BECD45B0028E766 /* rxjs-basics.yaml in Resources */,
+				B867B0692BECD45B0028E766 /* firebase-perf.yaml in Resources */,
+				B867B0772BECD45B0028E766 /* cf-basics.yaml in Resources */,
+				B867B0732BECD45B0028E766 /* flutter-flex.yaml in Resources */,
+				B867B06F2BECD45B0028E766 /* js-variables.yaml in Resources */,
+				B867B0682BECD45B0028E766 /* ts-basics.yaml in Resources */,
 				B8429A0B2BEBF244002ADC0C /* cloud-functions.png in Resources */,
+				B867B06C2BECD45B0028E766 /* js-basics.yaml in Resources */,
 				B8429A052BEBF244002ADC0C /* default-cover.png in Resources */,
 				B8429A042BEBF244002ADC0C /* ts.png in Resources */,
 				B8429A072BEBF244002ADC0C /* angular.png in Resources */,
-				B83F94792BEBE15C00CC829D /* flutter-basics.yaml in Resources */,
+				B867B0712BECD45B0028E766 /* cf-triggers.yaml in Resources */,
+				B867B05E2BECD45B0028E766 /* flutter.yaml in Resources */,
 				B8429A0D2BEBF244002ADC0C /* rxjs.png in Resources */,
+				B867B0702BECD45B0028E766 /* tester.yaml in Resources */,
+				B867B06A2BECD45B0028E766 /* flutter-basics.yaml in Resources */,
 				B8429A082BEBF244002ADC0C /* firestore.png in Resources */,
-				B83F94782BEBE15C00CC829D /* firebase-perf.yaml in Resources */,
-				B83F94822BEBE15C00CC829D /* flutter-flex.yaml in Resources */,
-				B83F948B2BEBE15C00CC829D /* js.yaml in Resources */,
-				B83F948E2BEBE15C00CC829D /* cf.yaml in Resources */,
+				B867B05F2BECD45B0028E766 /* ts.yaml in Resources */,
+				B867B06B2BECD45B0028E766 /* flutter-gestures.yaml in Resources */,
 				B8429A0C2BEBF244002ADC0C /* flutter-layout.png in Resources */,
-				B83F94802BEBE15C00CC829D /* cf-triggers.yaml in Resources */,
-				B83F948A2BEBE15C00CC829D /* rxjs.yaml in Resources */,
-				B83F94762BEBE15C00CC829D /* flutter-material.yaml in Resources */,
-				B83F947A2BEBE15C00CC829D /* flutter-gestures.yaml in Resources */,
-				B83F948C2BEBE15C00CC829D /* firebase.yaml in Resources */,
-				B83F94882BEBE15C00CC829D /* ts.yaml in Resources */,
-				B83F94832BEBE15C00CC829D /* angular-templates.yaml in Resources */,
-				B83F947C2BEBE15C00CC829D /* flutter-containers.yaml in Resources */,
-				B83F94892BEBE15C00CC829D /* firestore.yaml in Resources */,
-				B83F947D2BEBE15C00CC829D /* angular-basics.yaml in Resources */,
-				B83F94812BEBE15C00CC829D /* rxjs-basics.yaml in Resources */,
-				B83F94862BEBE15C00CC829D /* cf-basics.yaml in Resources */,
-				B83F948D2BEBE15C00CC829D /* angular.yaml in Resources */,
+				B867B06E2BECD45B0028E766 /* angular-basics.yaml in Resources */,
 				B83F94442BEB9E1700CC829D /* Preview Assets.xcassets in Resources */,
+				B867B0622BECD45B0028E766 /* js.yaml in Resources */,
+				B867B0602BECD45B0028E766 /* firestore.yaml in Resources */,
 				B8429A0A2BEBF244002ADC0C /* js.png in Resources */,
+				B867B0652BECD45B0028E766 /* cf.yaml in Resources */,
+				B867B06D2BECD45B0028E766 /* flutter-containers.yaml in Resources */,
 				B83F94412BEB9E1700CC829D /* Assets.xcassets in Resources */,
-				B83F94772BEBE15C00CC829D /* ts-basics.yaml in Resources */,
-				B83F94752BEBE15C00CC829D /* defaults.yaml in Resources */,
-				B83F947F2BEBE15C00CC829D /* tester.yaml in Resources */,
+				B867B0632BECD45B0028E766 /* firebase.yaml in Resources */,
+				B867B0742BECD45B0028E766 /* angular-templates.yaml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
