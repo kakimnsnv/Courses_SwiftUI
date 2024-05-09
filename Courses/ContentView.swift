@@ -1,21 +1,10 @@
-//
-//  ContentView.swift
-//  Courses
-//
-//  Created by kakim nyssanov on 08.05.2024.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    let (topics, quizzes) = parseTopicsAndQuizzesFromYAMLFilesInFolders() ?? ([], [])
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        TopicListView(topics: topics, quizzes: quizzes)
     }
 }
 
